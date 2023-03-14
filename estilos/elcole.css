@@ -1,0 +1,24 @@
+#titulo3{
+    text-align: center;
+}
+#img2{
+    text-align: center;
+}
+#tit3{
+    text-align: center;
+    font-size: 30px;
+}
+#titulo2{
+    text-align: center;
+    font-family:monospace;
+}
+#texto{
+    text-align: justify;
+    font-size: 22px;
+}
+#listafrm{
+    text-align: left;
+}
+#croqui{
+    float: right;
+}

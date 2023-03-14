@@ -1,0 +1,46 @@
+#escqroo{
+    display: inline-block;
+    width: 20%;
+    float: left;
+}
+#logcobach{
+    display: inline-block;
+    width: 19%;
+    float: right;
+}
+#tit1{
+    display: inline-block;
+    text-align: center;
+    width: 49%;
+}
+#barra{
+    clear: both;
+    text-align: center;
+}
+.menu{
+    display:inline-block;
+    width: 11%;
+    background-color:cadetblue;
+    font-size: 20px;
+    text-align: center;
+    border:groove;
+}
+#caja{
+    width: 99%;
+    padding: 8px;
+    height: 400px;
+}
+a:link {
+  color: #590F40;
+}
+
+a:visited {
+  color: #F1EDE2;
+}
+a:active {
+  background: cadetblue;
+  color: #D6CFBC;
+}
+#pie{
+    text-align: center;
+}
